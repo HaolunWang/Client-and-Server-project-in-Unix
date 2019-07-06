@@ -5,5 +5,9 @@ This project is mocking a dice game between client and server in Unix for System
 
 Instruction:
 
+If you use Windows, please download "bitvise ssh" and run the programs;
+
+If you use IOS, please use the console to run the programs;
+
 Please let a person put the client file on one computer and at the same time, let the another person put the server file on the another computer and run it first. When the client inputs the IP address that the server gives on the client command window, it should be connected. Last, the client should be run, the game should start.
 
