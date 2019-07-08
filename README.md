@@ -5,7 +5,7 @@ This project is mocking a dice game between client and server in Unix for System
 
 Instruction:
 
-If you use Windows, please download "bitvise ssh" and run the programs;
+If you use Windows, please download "bitvise ssh client" and run the programs;
 
 If you use IOS, please use the console to run the programs;
 
